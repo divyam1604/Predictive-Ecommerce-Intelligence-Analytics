@@ -309,25 +309,42 @@ Segments:
 
 # 📂 Project Structure
 
-
-Predictive-Ecommerce-Analytics
-
+```
+Predictive-Ecommerce-Intelligence-Analytics
 │
-├── dashboard
+├── 📁 dashboard
+│   │
 │   └── app.py
+│       └── Interactive Dash dashboard application
 │
-├── data
+├── 📁 data
+│   │
 │   ├── ecommerce_cleaned_data.csv
+│   │   └── Final processed dataset
+│   │
+│   └── olist datasets
+│       └── Raw marketplace datasets
 │
-├── images
-│   ├── analysis images
-│   └── dashboard screenshots
+├── 📁 images
+│   │
+│   ├── Analysis Visualizations
+│   │   ├── Revenue Trends
+│   │   ├── Customer Analytics
+│   │   ├── Seller Analytics
+│   │   ├── Product Intelligence
+│   │   └── Machine Learning Results
+│   │
+│   └── Dashboard Screenshots
 │
-├── Predictive E-Commerce Intelligence Analysis.ipynb
+├── 📓 Predictive E-Commerce Intelligence Analysis.ipynb
+│   └── Data Cleaning, EDA and Machine Learning
 │
-├── requirements.txt
+├── 📄 requirements.txt
+│   └── Project dependencies
 │
-└── README.md
+└── 📄 README.md
+    └── Project documentation
+```
 
 
 ---
